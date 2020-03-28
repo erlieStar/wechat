@@ -8,7 +8,7 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 import java.net.URLConnection;
 
-public class ResponseUtil {
+public class HttpUtil {
 
     public static String sendGet(String url, String param) {
         String result = "";

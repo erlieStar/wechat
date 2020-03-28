@@ -1,0 +1,6 @@
+server:
+  port: 8080
+
+wechat:
+  appID: 111
+  appSecret: 111

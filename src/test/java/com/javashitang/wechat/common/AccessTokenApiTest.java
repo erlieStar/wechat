@@ -1,4 +1,4 @@
-package com.javashitang.wechat.api;
+package com.javashitang.wechat.common;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;

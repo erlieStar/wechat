@@ -1,6 +1,5 @@
 package com.javashitang.wechat.controller;
 
-import com.javashitang.wechat.handler.DefaultHandler;
 import com.javashitang.wechat.util.CheckUtil;
 import com.javashitang.wechat.util.XMLUtil;
 import org.dom4j.DocumentException;
@@ -21,7 +20,6 @@ public class WeChatController {
     /*
      * 微信公众号服务器
      */
-
     private final String token = "erlie";
 
     @GetMapping("system")

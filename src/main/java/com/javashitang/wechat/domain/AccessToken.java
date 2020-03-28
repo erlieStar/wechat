@@ -1,12 +1,12 @@
-package com.javashitang.wechat.bean;
+package com.javashitang.wechat.domain;
 
 import java.util.Date;
 
 public class AccessToken {
 
-    String accessToken;
-    int expiresIn;
-    Date date;
+    private String accessToken;
+    private int expiresIn;
+    private Date date;
 
     public AccessToken() {
     }
